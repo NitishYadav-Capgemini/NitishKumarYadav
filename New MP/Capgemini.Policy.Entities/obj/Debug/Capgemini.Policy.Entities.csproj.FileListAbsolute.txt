@@ -1,0 +1,5 @@
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Entities\bin\Debug\Capgemini.Policy.Entities.dll
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Entities\bin\Debug\Capgemini.Policy.Entities.pdb
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Entities\obj\Debug\Capgemini.Policy.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Entities\obj\Debug\Capgemini.Policy.Entities.dll
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Entities\obj\Debug\Capgemini.Policy.Entities.pdb

@@ -1,0 +1,5 @@
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Exceptions\obj\Debug\Capgemini.Policy.Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Exceptions\bin\Debug\Capgemini.Policy.Exceptions.dll
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Exceptions\bin\Debug\Capgemini.Policy.Exceptions.pdb
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Exceptions\obj\Debug\Capgemini.Policy.Exceptions.dll
+C:\Users\Abridge Solutions\Desktop\Nitish 177925\mp\New MP\Capgemini.Policy.Exceptions\obj\Debug\Capgemini.Policy.Exceptions.pdb
